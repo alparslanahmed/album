@@ -4,7 +4,7 @@
 
 Album is a Instagram clone app written with React Native. Check the native app source code from alparslanahmed/albumNative
 
-##Features
+## Features
 - Image uploading & sharing
 - Following other profiles
 - Story uploading & sharing
