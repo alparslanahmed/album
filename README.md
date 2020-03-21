@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/hmTYML5/album.png" width="200"></p>
+<p align="center"><img src="https://i.ibb.co/ctHf428/album.png" width="200"></p>
 
 ## About Album
 
