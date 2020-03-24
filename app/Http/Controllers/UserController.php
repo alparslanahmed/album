@@ -32,4 +32,9 @@ class UserController extends Controller
 
         return response()->json(['message' => 'Account created, you can login now.']);
     }
+
+    public function forgotPassword(Request $request)
+    {
+
+    }
 }
